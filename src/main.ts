@@ -1,5 +1,7 @@
 import './style.css'
 import './TemasTS/01-tipos-bas.ts'
+import './02-obj-interfaz.bas.ts'
+import './03-funciones.ts'
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
 import viteLogo from './assets/vite.svg'
